@@ -15,27 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\dd2hex.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\echo.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\echoclient.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\echoserveri.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\hex2dd.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\hostinfo.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="..\hostinfo-ntop.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="..\netpfragments.c">
       <Filter>源文件</Filter>
     </ClCompile>
