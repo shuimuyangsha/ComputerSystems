@@ -1,6 +1,7 @@
 /* Example of Program for Profiling */
 /* Create a dictionary of strings */
 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
